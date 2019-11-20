@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/02 17:08:04.000.460,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/12 15:09:23.000.780,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/13 17:21:57.000.490,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 02:16:12.273,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 02:20:50.055,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.2\03-ios-pleinecran\fAccueil.pas=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 02:20:50.055,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.2\03-ios-pleinecran\fAccueil.fmx=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2019/11/19 02:21:00.680,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.2\03-ios-pleinecran\DemoIOSFullScreen.dproj=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="3080SH2002011919" Android="3080SH2002011919"/>  <PMBP-macOS iOSSimulator="iPhone" iOSDevice32="_iosdevice_00008027-00093081012B002E" iOSDevice64="_iosdevice_00008027-00093081012B002E"/>
+  </ActiveMobileDevice>
+</BorlandProject>
