@@ -1,0 +1,93 @@
+object frmAvecZOrder: TfrmAvecZOrder
+  Left = 0
+  Top = 0
+  Caption = 'D'#233'mo Z-Order'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object ToolBar1: TToolBar
+    Size.Width = 640.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Button1: TButton
+      Align = MostLeft
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Retour'
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Align = Left
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 95.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      Text = 'Charger'
+      OnClick = Button2Click
+    end
+    object Button3: TButton
+      Align = Right
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 555.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'MultiView'
+    end
+  end
+  object WebBrowser1: TWebBrowser
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 440.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object MultiView1: TMultiView
+    MasterButton = Button3
+    NavigationPaneOptions.CollapsedWidth = 250.000000000000000000
+    ControlType = Platform
+    Size.Width = 250.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Rectangle1: TRectangle
+      Align = Client
+      Fill.Kind = Gradient
+      Fill.Gradient.Points = <
+        item
+          Color = xFFD45757
+          Offset = 0.000000000000000000
+        end
+        item
+          Color = claWhite
+          Offset = 1.000000000000000000
+        end>
+      Fill.Gradient.Style = Radial
+      Size.Width = 250.000000000000000000
+      Size.Height = 440.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+end
