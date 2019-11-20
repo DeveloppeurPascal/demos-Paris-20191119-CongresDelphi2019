@@ -4,4 +4,5 @@ Source des démonstrations de ma présentation "10.3.x Rio : 1 an de mises à jo
 
 -----
 
-Les sources de la présentations et liens seront mis en place dans la journée du 20, le lendemain du Congrés Delphi. A très bientôt.
+Pour plus d'informations et consulter les slides de la présentation rendez-vous sur le blog:
+https://developpeur-pascal.fr/p/_9002-103x-rio-1-an-de-mises-a-jour.html
