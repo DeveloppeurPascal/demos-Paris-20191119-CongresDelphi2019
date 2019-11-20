@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/02 17:08:04.000.460,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/12 15:09:23.000.780,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/13 17:21:57.000.490,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/11/19 02:30:51.837,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2019/11/19 02:31:30.912,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.3\02-ios-theme-clair-force\JourForce.dproj=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2019/11/19 02:31:50.084,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.3\02-ios-theme-clair-force\Unit2.pas</Transaction>
+    <Transaction>2019/11/19 02:31:56.162,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.3\02-ios-theme-clair-force\fAccueil.pas=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.3\02-ios-theme-clair-force\Unit2.pas</Transaction>
+    <Transaction>2019/11/19 02:31:56.162,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.3\02-ios-theme-clair-force\fAccueil.fmx=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\ConfParis20191119\10.3.3\02-ios-theme-clair-force\Unit2.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="3080SH2002011919" Android64="3080SH2002011919"/>  <PMBP-macOS iOSSimulator="iPhone" iOSDevice32="_iosdevice_00008027-00093081012B002E" iOSDevice64="_iosdevice_00008027-00093081012B002E"/>
+  </ActiveMobileDevice>
+</BorlandProject>
