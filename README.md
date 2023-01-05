@@ -2,10 +2,13 @@
 
 Source des démonstrations de ma présentation "10.3.x Rio : 1 an de mises à jour" lors du Congrès Delphi 2019 à Paris le 19 novembre 2019.
 
------
+Ce dépôt de code est maintenant archivé. Ces exemples étant liés à la présentation de Delphi 10.3.3 Rio, ils ne seront pas mis à jour pour d'autres versions mais devraient fonctionner dessus sans problème (la compatibilité ascendante étant une réalité dans Delphi en général).
 
-Pour plus d'informations et consulter les slides de la présentation rendez-vous sur le blog:
-https://developpeur-pascal.fr/103x-rio-1-an-de-mises-a-jour.html
+Consultez [les slides de la présentation](https://developpeur-pascal.fr/103x-rio-1-an-de-mises-a-jour.html) pour voir à quoi ils correspondent.
+
+De nombreux autres exemples de projets et fonctionnalités codés sous Delphi sont disponibles sur [ce dépôt de code](https://github.com/DeveloppeurPascal/Delphi-samples).
+
+Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
 -----
 
